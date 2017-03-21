@@ -1,0 +1,63 @@
+.zanr {
+        font-family: cursive;
+        text-align: center;
+        text-decoration: underline;
+        font-weight: bold;
+        font-size: 30px;
+        float: none;
+      }
+      body {
+          font-family: sans-serif;
+      }
+      
+      h1 {
+        font-family: cursive;
+        font-size: 50px;
+        text-align: center;
+        text-transform: capitalize;
+      }
+      
+      h2 {
+        font-family: cursive;
+      }
+      
+      .content {
+        text-align: justify;
+        line-height: 30px;
+        padding: 10px;
+      }
+      
+      #pytel {
+        background-color: #B0E0E6;
+      }
+      #soutez {
+        background-color: #FDAECE;
+      }
+      #zaver {
+        background-color: #9AFE93;
+      }
+      footer {
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        font-family: cursive;
+        background-color: #B0E0E6;
+        border: 5px solid #3CAFFB;
+        margin: 25px;
+      }
+      
+      header {
+        background-color: #FDAECE;
+        border: 5px solid #FE458F;
+      }
+      
+      #uvod {
+       background-color: #9AFE93;
+      }
+      
+      .autor {
+        font-style: italic;
+      }
+      .zdroj {
+        font-style: italic;
+      }
